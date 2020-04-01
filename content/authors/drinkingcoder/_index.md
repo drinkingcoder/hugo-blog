@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-started my research journey in 3D vision in 2016 under the supervision of Prof. Guofeng Zhang and Prof. Xiaowei Zhou at Zhejiang University Computer Vision Group.
+I started my research journey in 3D vision in 2016 under the supervision of Prof. Guofeng Zhang and Prof. Xiaowei Zhou at Zhejiang University Computer Vision Group.
 I am interested in developing better feature representation for 3D vision tasks, e.g. visual localization and mapping, shading estimation, etc.
