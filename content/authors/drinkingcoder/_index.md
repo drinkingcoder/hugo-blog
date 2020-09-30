@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: M.S. Student at State Key Lab of CAD&CG
+role: Ph.D. Student at Multimedia Lab
 
 # Organizations/Affiliations
 organizations:
-- name: Zhejiang University
+- name: Chinese University of Hong Kong
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D in Electronic Engineering
+    institution: Chinese University of Hong Kong
+    year: 2020-now
   - course: M.Eng in Computer Science
     institution: Zhejiang University
     year: 2017-2020
@@ -41,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:drinkingcoder@zju.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:drinkingcoder@link.cuhk.edu.hk'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -58,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "drinkingcoder@zju.edu.cn"
+email: "drinkingcoder@link.cuhk.edu.hk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-I started my research journey in 3D vision in 2016 under the supervision of Prof. Guofeng Zhang and Prof. Xiaowei Zhou at Zhejiang University Computer Vision Group.
-I am interested in developing better feature representation for 3D vision tasks, e.g. visual localization and mapping, shading estimation, etc.
+I am an incoming Ph.D. student at CUHK, MMLab, supervised by Prof. Hongsheng Li. Before that, I got my master degree and bachelor degree from Zhejiang University. I had a great research experience working in the ZJU-3DV group of State Key Lab of CAD&CG, Zhejiang University, under the supervision of Prof. Guofeng Zhang and Prof. Xiaowei Zhou.
+I am interested in developing better feature representation for 3D vision tasks.
