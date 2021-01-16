@@ -11,7 +11,7 @@ date: "2020-11-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-09T00:00:00Z"
+# publishDate: "2020-11-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,8 +20,8 @@ publishDate: "2020-11-09T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *TVCG2020*
-publication_short: \* co-first authors
+# publication: In *TVCG2020*
+publication_short: TVCG2020 \* co-first authors
 
 # abstract: Camera localization from monocular images has been a long-standing problem, but its robustness in dynamic environments is still not adequately addressed. Compared with classic geometric approaches, modern CNN-based methods (e.g. PoseNet) have manifested the reliability against illumination or viewpoint variations, but they still have the following limitations. First, foreground moving objects are not explicitly handled, which results in poor performance and instability in dynamic environments. Second, the output for each image is a point estimate without uncertainty quantification. In this paper, we propose a framework which can be generally applied to existing CNN-based pose regressors to improve their robustness in dynamic environments. The key idea is a prior guided dropout module coupled with a self-attention module which can guide CNNs to ignore foreground objects during both training and inference. Additionally, the dropout module enables the pose regressor to output multiple hypotheses from which the uncertainty of pose estimates can be quantified and leveraged in the following uncertainty-aware pose graph optimization to improve the robustness further. We achieve an average accuracy of 9.98m/3.63◦ on RobotCar dataset, which outperforms the state-of-the-art method by 62.97%/47.08%. The source code of our implementation is available at https://github.com/zju3dv/RVL-Dynamic.
 # Summary. An optional shortened abstract.
